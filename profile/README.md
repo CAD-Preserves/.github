@@ -27,6 +27,6 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
 <details>
   <summary><h2>Preservés.</h2> (Preservés des Confoederatio)</summary>
 
-  **Surprise, it's still under construction!** Uh, check back later?
+  Check repositories for listings of structured data by book. We're currently working on taking book scans to turn them into structured `.json` and areal mask `.png` files that other people can use for data modelling, in particular CRD researchers.
   
 </details>
